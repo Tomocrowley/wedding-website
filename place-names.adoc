@@ -1,0 +1,72 @@
+= A place to eat
+Tom Crowley <tomocrowley@gmail.com>
+:imagesdir: https://raw.githubusercontent.com/Tomocrowley/images/master/
+
+
+## À Table !
+
+Tom isn't very good at counting, so instead of table numbers, we went with table names. Each table was given the name of a village, town, or city that has played a role in our lives so far.
+
+We wrote a little story about each place, and included it on the table name card.
+
+image::place-names.jpg[A table name card with a story]
+
+So, in alphabetical order, here are our towns:
+
+## Buckow
+
+image::buckow.png[Tom and Emma in a park in Germany]
+
+Tom and Emma flew to Berlin for someone else's wedding, but came home planning their own! It was on the banks of the Schermützelsee in eastern Germany that Tom finally popped the question. To which Emma naturally responded “is this a joke?”. Although their hotel room was flooded by heavy rain, their flight home was cancelled by Easyjet, and the only bit of Berlin they saw were the airports, none of this mattered in the end because Emma also said “yes".
+
+## Hatfield
+
+image::hatfield.png[Emma and Tom in one of the only photos of them together from the Hatfield era]
+
+Tom and Emma first met in Hatfield whilst unsuccessfully attempting to enrol on their Psychology Masters degree. When two people are shut in a room along with an incompetent administrator and a crazy Texan, one of two things can happen. Luckily, they weren't murdered, and eventually fell in love and got married. They feel that a happy future together is what they deserve for all of their suffering at the University of Hertfordshire. Hatfield has played its part in their story, and hopefully will not feature in any future chapters.
+
+## Gibraltar
+
+image::gibraltar.png[Emma and Tom atop the rock of Gibraltar, after hiking the Mediterranean Steps]
+
+Tom and Emma proved that they can cope with challenges together during their brief visit to the Rock of Gibraltar. They hiked up the Mediterranean steps under the brutal midday sun, helping and encouraging each other all the way up. After enjoying the view from the top and getting (a lot) lost on the way back down, they found their way back into town. They plan to deal with the up and downs in life the same way: facing them together, approaching them with determination, and eventually with a few cheeky little monkeys in tow.
+
+## Paris
+
+image::paris.jpeg[Tom and Emma at the Eiffel Tower]
+
+Paris will always be one of Tom and Emma’s favourite cities. Their first real weekend away together was spent exploring the streets and alleys in the City of Lights. Whether indulging their taste for the sunburnt high-life in Versailles, or enjoying the more down-to-earth culture of Montmartre & Pigalle, Paris and its pizza kebabs will always have a place in their hearts. And besides, if you can get through a strike at the Gare du Nord together, you can get through anything together.
+
+## Port Louis
+
+image::port-louis.png[Tom and Emma under umbrellas at Le Caudan Waterfront]
+
+A 12 hour flight to a brand new country is the perfect start to their rest of their lives. It represents an adventure waiting to be had and a story waiting to be written. Watch this space, the future is a destiny we create for ourselves! They’ve made their vows so once they leave here for the airport, they are in it, as they say, for the long haul.
+
+
+NOTE: This story was written prior to our actually visiting Port Louis. Port Louis isn't very nice. We should have chosen a different place...
+
+
+## Sawbridgeworth
+
+image::sawbridgeworth.png[Tom and Emma reading in their new home on a borrowed sofa]
+
+On the banks of the river Stort, half way between Cambridge and London, lies Sawbridgeworth. This sleepy town provides respite away from the daily grind of Chelmsford and The City. Tom and Emma hope to spend many a blissful year baking, watching the birds, and eventually raising a family in such happy surroundings. They are slowly but surely making friends with the neighbours, or at least waving frantically at them through the window. It’s only a matter of time before someone calls the police...
+
+## Sheffield
+
+image::sheff.png[Tom and Emma at the Dam Flask reservoir]
+
+From the cold, dark wastelands of the North, where people are forged with muscles strong like steel and hearts warm like furnaces, comes our not-quite-your-typical hero. He sacrificed the rolling green hills and clean fresh air of Yorkshire for civilisation, employment, and, of course, the love of his life.
+
+## Taormina
+
+image::taormina.png[Emma and Tom posing near a palm tree in Sicily]
+
+High above the beautiful Sicilian coast line in the shadow of the smouldering Mount Etna lies a small a vibrant town where our happy couple enjoyed a week of sun, good food, and each other's company. From exploring down by the beach, to hot hikes up in the mountains, and everything in-between, Taormina represents the warm, fun and relaxed nature of their love. Looking out over the winding country roads from the heights of Castelmola they were reminded of that famous saying “see a hairpin, follow it up, and all day long you’ll have good luck”. And long may it continue!
+
+## Ware
+
+image::ware.png[Tom and Emma at a restaurant for Christmas Dinner]
+
+Spring in Ware, the hometown of our heroine, saw Tom and Emma’s young relationship blossom and grow until it became a love that was full of life and a life that was full of love. Those early days were spent walking hand-in-hand by the river and sat around her dining room table searching and searching for a very specific Lego brick, that I swear I saw not 5 minutes ago, but that I cannot find anywhere and … oh, there it is. Ware, while now but a memory, was one of the key bricks in the building of their relationship.
