@@ -1,7 +1,10 @@
-= Groom's Speech
+= The Groom's Speech
 Tom Crowley <tomocrowley@gmail.com>
 :imagesdir: https://raw.githubusercontent.com/Tomocrowley/images/master/
 
+## Groom, speak speak speak to the room!
+
+NOTE: I might have deviated slightly from the script, so I think there's a bonus joke in here that didn't make the final cut, as a reward for anyone daft enough to want to relive this again...!
 
 According to the wedding magazine 'Hitched', the groom has to make everyone laugh within the first three lines of his speech.
 
@@ -44,8 +47,6 @@ Now. Anyone who's met Emma doesn't need me to tell them how great she is, but if
 Emma is, quite simply, my best friend. We have a lot in common - we share many values, a similar work ethic, a slightly warped sense of humour, and on top of that, she's smart, caring, and beautiful, inside and out. In short, she's the person I try to be when I wake up each morning, but by the time I get home each night, she's moved the goalposts even further.
 
 image::tom-speech-2.jpg[Emma looking on in wonder at Toms oratory prowess]
-
-
 
 There is no one else with whom I would rather grow old and raise a family. She makes me a better person. For example, you might notice that I'm still fully dressed and wearing shoes. You can thank Emma for that.
 
